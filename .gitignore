@@ -1,0 +1,15 @@
+# Ignorer les fichiers de configuration sensibles
+.env
+
+# Ignorer le dossier node_modules dans le dossier backend
+backend/node_modules/
+
+# Ignorer les logs
+*.log
+
+# Ignorer les fichiers de la base de données SQLite (si applicable)
+*.sqlite
+
+# Ignorer les fichiers de sauvegarde ou de cache
+*.bak
+*.swp
