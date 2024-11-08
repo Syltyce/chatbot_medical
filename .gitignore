@@ -4,6 +4,12 @@
 # Ignorer le dossier node_modules dans le dossier backend
 backend/node_modules/
 
+backend/package.json
+backend/package-lock.json
+
+frontend/package.json
+frontend/package-lock.json
+
 # Ignorer les logs
 *.log
 
